@@ -7,9 +7,9 @@
     "dev": "nodemon --watch './src/**/*.ts' --exec ts-node ./src/index.ts",
     "build": "tsc",
     "postinstall": "npm run build",
-    "serve": "node dist/server.js",
+    "serve": "node dist/index.js",
     "test": "jest src",
-    "watch-node": "nodemon dist/server.js",
+    "watch-node": "nodemon dist/index.js",
     "watch-ts": "tsc -w"
   },
   "devDependencies": {
