@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "webrtc simple application",
   "scripts": {
-    "start": "ts-node ./src/index.ts",
+    "start": "npm run serve",
     "dev": "nodemon --watch './src/**/*.ts' --exec ts-node ./src/index.ts",
-    "build":"tsc"
+    "build": "tsc",
+    "postinstall": "npm run build",
+    "serve": "node dist/server.js",
+    "test": "jest src",
+    "watch-node": "nodemon dist/server.js",
+    "watch-ts": "tsc -w"
   },
   "devDependencies": {
     "@types/express": "^4.17.2",
