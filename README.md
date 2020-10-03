@@ -1,3 +1,8 @@
 # Webrtc Application
 
-##  Check Live  [https://sunny-caller.herokuapp.com](https://sunny-caller.herokuapp.com/) 
+##  Check Live demo  [https://sunny-caller.herokuapp.com](https://sunny-caller.herokuapp.com/) 
+
+## stack used
+1.Node Js <br/>
+2.sockets <br/>
+ 
