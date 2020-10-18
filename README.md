@@ -53,7 +53,7 @@ Check out the [contributing](https://github.com/sunxysharma/webrtc-application/b
 
 Released in 2020 :closed_book: License
 
-Made with love by [Luiz Pansarini](https://github.com/sunxysharma) 🚀.
+Made with love by (https://github.com/sunxysharma) 🚀.
 This project is under the [MIT license](https://github.com/sunxysharma/webrtc-application/blob/master/LICENSE).
 
 Give a ⭐️ if this project helped you!
